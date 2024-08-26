@@ -1,0 +1,41 @@
+header{
+    background: color rgb(0, 247, 255);
+    color: black
+}
+
+    body {
+    background: color white;
+    }
+  
+    .s1{
+background-color:  rgb(25, 228, 86);
+color: black;
+display: flex:
+    }
+
+.s2{
+ background-color:  blue;
+color: black;
+display: flex:
+  }
+
+ .s3{
+ background-color:  yellow;
+ color: black;
+ display: flex:
+ }
+ .l2c1{
+   padding-left: 10px; 
+   padding-right: 10px; 
+   margin left: 10px;
+   margin right: 10px;
+ }
+ 
+ .l2c2{
+    padding-left: 50px; 
+    padding-right: 50px; 
+  }
+  .vídeo1{
+    padding-right: 0px;
+    padding-left: 10px;
+  }
